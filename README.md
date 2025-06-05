@@ -42,6 +42,14 @@ Before entering tech, I spent over a decade in the insurance & financial industr
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxcode0101&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
 ### 🛠️ Projects You Should See
 
 - 🧢 [Drift Cult](https://github.com/Maxcode0101/drift_cult) – Surf/skate fashion eCommerce platform built with Django & Stripe  
