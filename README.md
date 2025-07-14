@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://github.com/Maxcode0101/Maxcode0101/blob/main/horizontal_DB.png" alt="Cyan Web Banner" "max-width: 100%; max-height: 300px; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/Maxcode0101/Maxcode0101/main/horizontal_DB.png" alt="Cyan Web Banner" alt="Cyan Web Banner" style="max-width: 100%; max-height: 300px; margin: 0; padding: 0;">
 </div>
 
 <h1 align="center">Hi, I'm Max 👋</h1>
