@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Max K Banner">
+  <img src="https://github.com/Maxcode0101/Maxcode0101/blob/main/horizontal_DB.png" alt="Cyan Web Banner">
 </p>
 
 <h1 align="center">Hi, I'm Max 👋</h1>
