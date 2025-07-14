@@ -1,7 +1,7 @@
 <!-- Banner -->
-<p align="center">
+<div align="center">
   <img src="https://github.com/Maxcode0101/Maxcode0101/blob/main/horizontal_DB.png" alt="Cyan Web Banner">
-</p>
+</div>
 
 <h1 align="center">Hi, I'm Max 👋</h1>
 <h3 align="center">Full-Stack Developer | Django Specialist | Freelance Web Craftsman</h3>
