@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Max 👋</h1>
-<h3 align="center">Full-Stack Developer | Django Specialist | Freelance Web Craftsman</h3>
+<h3 align="center">Full-Stack Developer | Django Specialist | Freelance Web Craftsman | Founder of CYANweb</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/freelance-available-brightgreen?style=flat-square" alt="Freelance Available"/>
