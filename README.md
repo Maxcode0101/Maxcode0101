@@ -1,6 +1,10 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maxcode0101/Maxcode0101/main/horizontal_DB.png" alt="Cyan Web Banner" alt="Cyan Web Banner" style="max-width: 100%; max-height: 300px; margin: 0; padding: 0;">
+  <img 
+    src="https://raw.githubusercontent.com/Maxcode0101/Maxcode0101/main/horizontal_DB.png" 
+    alt="Cyan Web Banner" 
+    style="max-width: 100%; max-height: 300px; margin: 0 0 -10px 0; padding: 0;">
+
 </div>
 
 <h1 align="center">Hi, I'm Max 👋</h1>
@@ -9,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/freelance-available-brightgreen?style=flat-square" alt="Freelance Available"/>
 </p>
+
 
 ---
 
