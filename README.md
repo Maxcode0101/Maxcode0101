@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Maxcode0101/Maxcode0101/main/horizontal_DB.png" 
+    src="https://raw.githubusercontent.com/Maxcode0101/Maxcode0101/main/dark_banner.png" 
     alt="Cyan Web Banner" 
     style="max-width: 100%; max-height: 300px; margin: 0 0 -10px 0; padding: 0;">
 
